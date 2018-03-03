@@ -1,11 +1,11 @@
 ---
-title = "Packaging pour Solus"
-date = "2017-04-23T16:25:46+02:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Packaging pour Solus"
+date : "2017-04-23T16:25:46+02:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 Il me manquait un paquet chez Solus, le logiciel de traitement d'image HDR, luminance_hdr. Je me suis donc laissé tenter par le packaging. Tout d'abord il y a un guide pas trop mal [sur le site officiel](https://solus-project.com/articles/packaging/).

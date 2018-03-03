@@ -1,11 +1,11 @@
 ---
-title = "OST Luke Cage"
-date = "2017-01-21T10:29:48+01:00"
-draft = false
-thumbnail = "img/ostgasme.jpg"
-toc = true # Optional
-tags = ["OSTGasme"]
-categories = ["OSTGasme"]
+title : "OST Luke Cage"
+date : "2017-01-21T10:29:48+01:00"
+draft : false
+thumbnail : "img/ostgasme.jpg"
+toc : true # Optional
+tags : ["OSTGasme"]
+categories : ["OSTGasme"]
 ---
 
 Je débute une nouvelle catégorie pour ce blog: OSTGasme. Catégorie consacrée à mes bonnes découvertes de bandes originales (OST) de films ou séries.

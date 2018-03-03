@@ -1,11 +1,11 @@
 ---
-title = "Les Orphelins Baudelaire"
-date = "2017-02-19T08:59:40+01:00"
-draft = false
-thumbnail = "img/seriestv.jpg"
-toc = true # Optional
-tags = ["séries TV"]
-categories = ["séries TV"]
+title : "Les Orphelins Baudelaire"
+date : "2017-02-19T08:59:40+01:00"
+draft : false
+thumbnail : "img/seriestv.jpg"
+toc : true # Optional
+tags : ["séries TV"]
+categories : ["séries TV"]
 ---
 
 
