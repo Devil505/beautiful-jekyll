@@ -1,0 +1,46 @@
+---
+title = "Sense8"
+date = "2017-07-29T17:28:00+02:00"
+draft = false
+thumbnail = "img/seriestv.jpg"
+toc = true # Optional
+tags = ["séries TV"]
+categories = ["séries TV"]
+---
+
+Aujourd'hui je vais vous parler de Sense8, une série sur les sensations, les sentiments et les émotions, crée par les ~~frères~~ soeurs Wachowski (Matrix, V pour Vendetta, Cloud Atlas...). 
+
+En effet, le pitch de cette série Netflix est que 8 personnes sur le globe, qui ne se sont jamais rencontrées, se retrouvent connectées entre elles en particulier au niveau sensoriel et émotionnel. Bien évident, il y a un peu d'action dans l'histoire car une organisation secrète a pour mission de traquer les "sensitifs".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9c_KSZ6zMk" frameborder="0" allowfullscreen></iframe>
+
+Les 8 personnages principaux tous attachants ont chacun leur particularité.
+ 
+  * Will, le flic de Chicago, honnête mais épris de remords
+  * Lito, célèbre acteur de films d'action à Mexico qui cache son homosexualité
+  * Nomi, la femme transgenre de San Francisco, qui est une hackeuse hors-paire
+  * Sun, la sud-coréene badass, fille d'un grand patron et championne en arts martiaux
+  * Capheus, l'africain de Nairobi au grand coeur qui conduit son bus Van Damn (il est fan de Jean-Clause)
+  * Riley, la DJ d'origine islandaise qui vit à Londres et qui fuit son passé
+  * Kala, la pharmacienne de Bombay, qui doit se marier avec un homme dont elle n'est pas sûr d'en être amoureuse
+  * Wolfgang, voleur à Berlin, sa vie est assez compliquée avec la Mafia du coin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TT-bpE9Tr8g" frameborder="0" allowfullscreen></iframe>
+
+Chaque personnage a ses problèmes et l'intervention des autres membres du cercle permet de débloquer certaines situtations comme, par exemple, avec les talents en arts martiaux de Sun. Il y a des scènes très torides mais bien réalisées car l'accent est mis sur le coté _sensoriel_. Les lieux de tournage sont situés aux quatres coins du monde, du coup on a droit par moment à de belles images, et c'est aussi pour cela que la seconde saison a mis à certain temps à sortir.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nt4pRedRpKw" frameborder="0" allowfullscreen></iframe>
+
+La musique a une part importante dans cette série, ca a même remis _What's Up_ des 4 Non Blondes au goût du jour. je pense que je ferais un billet OSTgasme sur le soundtrack :-)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRJYCW_dCN4" frameborder="0" allowfullscreen></iframe>
+
+Sense8 est considérée comme une série SF car elle traite de l'évolution humaine (recherche plus approfondie dans la seconde saison) mais elle a aussi le mérite de parler de plusieurs thèmes comme l'idendité sexuelle, la politique ou encore la religion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cmg2hBXj_eI" frameborder="0" allowfullscreen></iframe>
+
+Il y a deux saisons avec entre les deux un épisode de Noel sympathique. Tout allait bien mais *Netflix a décidé il y a quelque temps d'annuler la série* qui côute trop chère. Malgré tout, *les fans, grâce à une pétition, ont pu faire céder un peu Netflix qui a promis un long épisode pour clôturer dignement cette série un peu hors-norme*.
+
+
+
+

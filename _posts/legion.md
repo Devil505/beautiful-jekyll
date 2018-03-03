@@ -1,0 +1,25 @@
+---
+title = "Legion"
+date = "2017-04-02T14:56:12+02:00"
+draft = false
+thumbnail = "img/seriestv.jpg"
+toc = true # Optional
+tags = ["séries TV"]
+categories = ["séries TV"]
+---
+
+Legion est la série du moment pour la chaîne US FX (celle qui diffuse The Americans et Fargo). D'ailleurs le scénario a été confié à un scénariste de la série Fargo et c’est justement ce qui m'a attiré en premier lieu. Dans le logo de Legion il y a un X à l'intérieur du O, pour rappeler que cette série découle de l'univers des X-Men.
+
+Pour faire rapide, Legion est le nom d'un mutant qui possède un tas de pouvoirs mais qui est mentalement instable (il est même le fils d'un x-men très connu, ok j'arrête le spoil). D'ailleurs dès le premier épisode, David, le héros, se retrouver interné dans un asile de fous. Toute la saison est consacrée au combat qui sé déroule dans son esprit. David est il schyzophrène ? Ses souvenirs sont il réels ? Lenny est il juste son amie imaginaire ? À chaque épisode, on se retrouve totalement déboussolé et ce n'est pas déplaisant. c'est très bien réalisé, chaque plan, même ceux les plus loufoques, ont leur propre signification dans l'esprit un peu dérangé de David.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SZ3rMMYBLY" frameborder="0" allowfullscreen></iframe>
+
+La distribution d'acteur est pas mal, autant les alliés de David que ses ennemis. Mention spéciale à Aubrey Plaza qui jour le rôle de Lenny, amie imaginaire ou pas de David:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6AfE3TDJwHs" frameborder="0" allowfullscreen></iframe>
+
+La bande son est terrible. Chronologiquement l'histoire se situe dans les années 1960-1970. Le premier épisode commence direct avec _Happy Jack_ des Who, et plus loin il y a même _Pauvre Lola_ de Serge Gainsbourg. Perso, j'ai adoré la version remastérisé du _Bolero_ de Ravel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TE_ZCytqFYM" frameborder="0" allowfullscreen></iframe>
+
+FX a brillamment réussi l'introduction de la franchise X-Men dans l'univers des séries télés, pour info, l'adaptation de New Mutants est en cours. Si vous aimez les supér-héros et que vous voulez voir quelques chose de différent que ce que propose Marvel Netflix, foncez. Une saison 2 de Legion a été commandée au passage.

@@ -1,0 +1,28 @@
+---
+title = "Ozark"
+date = "2017-08-30T17:47:00+02:00"
+draft = false
+thumbnail = "img/seriestv.jpg"
+toc = true # Optional
+tags = ["séries TV"]
+categories = ["séries TV"]
+---
+
+
+Ozark est passé un peu inaperçu. C'est une série Netflix qui mérite le détour, en fait, je pense que c'est le breaking bad du célèbre réseau de streaming.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hAXVqrljbs" frameborder="0" allowfullscreen></iframe>
+
+Le pitch. Marty Byrde, père de famille vivant à Chicago est un talentueux conseiller en gestion financière. Il est tellement bon qu'il blanchit l'argent d'un cartel mexicain. Tout dérape et il doit emménager avec sa famille dans une station balnéaire des monts Ozarks dans le Missouri. Sur place, il devra se débrouiller pour blanchir encore de l'argent pour rembourser sa dette au cartel.
+
+C'est une série surprenante par ses rebondissements. Le lieu à aussi sa particularité avec le lac et la forêt. Et puis c'est le Missouri avec ses rednecks.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5QYV0N6PWo4" frameborder="0" allowfullscreen></iframe>
+
+Le rôle de Marty est tenu par Jason Bateman que j'avais déjà vu dans des comédies, dans Ozark, il est aussi remarquable dans le coté dramatique. Le reste de la distribution est aussi pas mal, que ce soit les autres membres de la famille Byrde, le représentant du cartel ou les habitants de la région. 
+
+Sans vouloir spoiler, cela ne va pas être simple pour Marty et le cartel n'est pas toujours son soucis principal. La série comporte 10 épisodes et une saison 2 a été signée.
+
+À voir !
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMgElg_aEuI" frameborder="0" allowfullscreen></iframe>
