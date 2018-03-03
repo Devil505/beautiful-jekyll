@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 4"
-date = "2018-01-27T10:21:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 4"
+date : "2018-01-27T10:21:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 Cette fois, on va s'attarder sur la prise de note. Avec Google, j'utilisais Keep, super pratique pour prendre des notes, mettez de côté un lien...etc

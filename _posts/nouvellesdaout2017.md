@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles d'août 2017"
-date = "2017-08-31T17:51:00+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles d'août 2017"
+date : "2017-08-31T17:51:00+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Alors quoi de neuf durant le mois d'août pour les deux distributions Linux que je suis de près.

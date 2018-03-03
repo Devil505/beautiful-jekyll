@@ -1,11 +1,11 @@
 ---
-title = "Mon Dépôt pour Solus"
-date = "2017-07-02T13:19:00+01:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Mon Dépôt pour Solus"
+date : "2017-07-02T13:19:00+01:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 

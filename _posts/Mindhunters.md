@@ -1,11 +1,11 @@
 ---
-title = "Mindhunters"
-date = "2018-02-13T09:21:00+02:00"
-draft = false
-thumbnail = "img/seriestv.jpg"
-toc = true # Optional
-tags = ["séries TV"]
-categories = ["séries TV"]
+title : "Mindhunters"
+date : "2018-02-13T09:21:00+02:00"
+draft : false
+thumbnail : "img/seriestv.jpg"
+toc : true # Optional
+tags : ["séries TV"]
+categories : ["séries TV"]
 ---
 
 Voici une série qui mérite le détour. Mindhunters est une série Netflix produite par David Fincher et CHarlize Theron (du lourd quand même). Pour faire simple, la série relate les début des techniques de profilage des tueurs en série (d'ailleurs ce terme est inventé au cours de la série).

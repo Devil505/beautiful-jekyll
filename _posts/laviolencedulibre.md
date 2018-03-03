@@ -1,11 +1,11 @@
 ---
-title = "La violence du libre"
-date = "2016-12-28T11:57:54+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["coup de gueule"]
-categories = ["editos"]
+title : "La violence du libre"
+date : "2016-12-28T11:57:54+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["coup de gueule"]
+categories : ["editos"]
 ---
 
 L'autre soir, j'ai été un peu choqué par çà:

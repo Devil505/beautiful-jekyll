@@ -1,11 +1,11 @@
 ---
-title = "L'opensource ne meurt jamais"
-date = "2016-12-28T08:39:17+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["android"]
-categories = ["editos"]
+title : "L'opensource ne meurt jamais"
+date : "2016-12-28T08:39:17+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["android"]
+categories : ["editos"]
 ---
 
 C'est ce que je me dis avec ce qui se passe avec cyanogenmod. J'ai un smartphone OnePlus One et une tablette LG G Pad 8.4. Pour les deux, j'ai dévérouillé le bootloader pour y installer une ROM alternative.

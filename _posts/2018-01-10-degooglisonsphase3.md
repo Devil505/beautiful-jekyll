@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 3"
-date = "2018-01-10T18:11:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 3"
+date : "2018-01-10T18:11:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 Troisième phase de degooglisation. Cette fois, consacrée au lecteur de flux RSS. Ce n'est pas une véritable degooglisation je sais, en effet, Google Reader est mort il y a maintenant quelques années. 

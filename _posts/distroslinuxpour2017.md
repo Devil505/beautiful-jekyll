@@ -1,11 +1,11 @@
 ---
-title = "Distros Linux pour 2017"
-date = "2017-01-14T10:48:51+01:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux","elementary OS"]
-categories = ["linux"]
+title : "Distros Linux pour 2017"
+date : "2017-01-14T10:48:51+01:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux","elementary OS"]
+categories : ["linux"]
 ---
 
 Le site [linux.com a publié la liste des distributions linux pour 2017](https://www.linux.com/news/learn/sysadmin/best-linux-distributions-2017) selon des catégories bien définies.

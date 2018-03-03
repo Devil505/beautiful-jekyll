@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de novembre 2017"
-date = "2017-11-25T13:24:00+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de novembre 2017"
+date : "2017-11-25T13:24:00+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 ## L'installateur d'elemenrary OS se refait une beauté

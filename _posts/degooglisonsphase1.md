@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 1"
-date = "2017-12-25T11:19:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 1"
+date : "2017-12-25T11:19:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 En me documentant sur la campagne Dégooglisons l'internet de framasoft, je me suis dit pourquoi pas essayer. Alors débutons par la phase 1, en clair le mail !

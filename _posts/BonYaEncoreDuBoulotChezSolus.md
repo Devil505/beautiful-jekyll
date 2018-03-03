@@ -1,11 +1,11 @@
 ---
-title = "Bon, y'a encore du boulot à faire chez Solus"
-date = "2017-08-09T13:42:00+02:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Bon, y'a encore du boulot à faire chez Solus"
+date : "2017-08-09T13:42:00+02:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-title = "elementary OS store"
-date = "2017-04-07T17:16:16+02:00"
-draft = false
-thumbnail = "img/elementary.jpg"
-toc = true # Optional
-tags = ["linux","elementary OS"]
-categories = ["elementary OS"]
+title : "elementary OS store"
+date : "2017-04-07T17:16:16+02:00"
+draft : false
+thumbnail : "img/elementary.jpg"
+toc : true # Optional
+tags : ["linux","elementary OS"]
+categories : ["elementary OS"]
 ---
 
 Les choses avancent à grand pas pour l'AppCenter de la prochaine version d'elementary OS.

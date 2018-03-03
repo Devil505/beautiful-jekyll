@@ -1,11 +1,11 @@
 ---
-title = "Encore plus d'apps sur l'AppCenter"
-date = "2017-07-22T07:36:00+02:00"
-draft = false
-thumbnail = "img/elementary.jpg"
-toc = true # Optional
-tags = ["linux","elementary OS"]
-categories = ["elementary OS"]
+title : "Encore plus d'apps sur l'AppCenter"
+date : "2017-07-22T07:36:00+02:00"
+draft : false
+thumbnail : "img/elementary.jpg"
+toc : true # Optional
+tags : ["linux","elementary OS"]
+categories : ["elementary OS"]
 ---
 
 Castrée (comme dit FredBezies) ou pas, la elementary OS a le vent en poupe chez les développeurs d'applications tierces. En effet, il y a maintenant régulièrement de nouvelles applications sur le store, pardon, l'AppCenter. 

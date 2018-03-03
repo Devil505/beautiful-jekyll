@@ -1,11 +1,11 @@
 ---
-title = "nouvelles avril 2017"
-date = "2017-04-06T16:19:33+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "nouvelles avril 2017"
+date : "2017-04-06T16:19:33+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Vous avez sans doute dû le voir, la grosse news du moment c'est l'abandon pur et dur d'unity par Canonical.

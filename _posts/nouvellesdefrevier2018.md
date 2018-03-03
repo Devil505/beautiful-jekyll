@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de Février 2018"
-date = "2018-02-08T07:44:00+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de Février 2018"
+date : "2018-02-08T07:44:00+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Chez elementary ça recommence à parler de Juno, qui devrait sortir forcément après Ubuntu 18.04, donc je tablerai bien sur septembre 2018.

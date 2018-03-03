@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 6 (et dernière)"
-date = "2018-02-19T08:48:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 6 (et dernière)"
+date : "2018-02-19T08:48:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 Nous voici à la 6eme et dernière phase qui regroupe plusieurs passages.

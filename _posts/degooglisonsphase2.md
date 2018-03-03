@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 2"
-date = "2017-12-31T11:17:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 2"
+date : "2017-12-31T11:17:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 Dégooglisons phase 3

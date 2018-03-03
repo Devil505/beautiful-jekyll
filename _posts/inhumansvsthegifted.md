@@ -1,11 +1,11 @@
 ---
-title = "Inhumans VS The Gifted"
-date = "2017-11-03T18:29:00+02:00"
-draft = false
-thumbnail = "img/seriestv.jpg"
-toc = true # Optional
-tags = ["séries TV"]
-categories = ["séries TV"]
+title : "Inhumans VS The Gifted"
+date : "2017-11-03T18:29:00+02:00"
+draft : false
+thumbnail : "img/seriestv.jpg"
+toc : true # Optional
+tags : ["séries TV"]
+categories : ["séries TV"]
 ---
 
 Avec la rentrée des séries, il y a un duel entre deux séries de l'univers Marvel. D'un côté, **Marvel's Inhumans** de Marvel Studios et de l'autre, **The Gifted** de la Fox. Alors laquelle faut il regarder ?

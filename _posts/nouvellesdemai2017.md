@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de Mai 2017"
-date = "2017-05-14T09:06:14+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de Mai 2017"
+date : "2017-05-14T09:06:14+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Finalement j'avais bien deviné, Solus à bien [sorti une version GNOME](https://solus-project.com/2017/04/18/solus-releases-iso-snapshot-20170418-0/).

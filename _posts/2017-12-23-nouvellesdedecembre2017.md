@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de décembre 2017"
-date = "2017-12-23T11:37:00+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de décembre 2017"
+date : "2017-12-23T11:37:00+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 ## Solus 4 retardé

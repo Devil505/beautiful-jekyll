@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de Juillet 2017"
-date = "2017-07-10T09:32:14+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de Juillet 2017"
+date : "2017-07-10T09:32:14+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Quelques actualités linuxiennes pour ce mois de juillet.

@@ -1,11 +1,11 @@
 ---
-title = "Nouvelles de Juin 2017"
-date = "2017-06-05T10:18:20+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Nouvelles de Juin 2017"
+date : "2017-06-05T10:18:20+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Que s'est il passé depuis la dernière fois ? :-)

@@ -1,11 +1,11 @@
 ---
-title = "Budgie passe à Qt"
-date = "2017-01-28T08:14:50+01:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Budgie passe à Qt"
+date : "2017-01-28T08:14:50+01:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 La nouvelle a ébranlé le (petit) monde de Solus cette semaine, et oui, Budgie Desktop abandonne GTK pour Qt !

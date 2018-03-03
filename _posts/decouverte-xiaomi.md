@@ -1,11 +1,11 @@
 ---
-title = "Découverte de XIAOMI"
-date = "2017-07-01T16:00:00+01:00"
-draft = false
-thumbnail = "img/geek.jpg"
-toc = true # Optional
-tags = ["geekeries"]
-categories = ["geekeries"]
+title : "Découverte de XIAOMI"
+date : "2017-07-01T16:00:00+01:00"
+draft : false
+thumbnail : "img/geek.jpg"
+toc : true # Optional
+tags : ["geekeries"]
+categories : ["geekeries"]
 ---
 
 

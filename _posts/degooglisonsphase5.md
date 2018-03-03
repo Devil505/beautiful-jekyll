@@ -1,11 +1,11 @@
 ---
-title = "Dégooglisons phase 5"
-date = "2018-02-05T18:20:00+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["editos"]
-categories = ["editos"]
+title : "Dégooglisons phase 5"
+date : "2018-02-05T18:20:00+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["editos"]
+categories : ["editos"]
 ---
 
 Je poursuis ma degooglisation avec cette fois pour sujet, le cloud. La cible est Google Drive où je dispose de 15 Go. J'ai également un compte dropbox pour des broutilles et un compte Méga pour de la documentation car ils offrent 50 Go gratuitement. Ces deux comptes sont vraiment des clouds secondaires.

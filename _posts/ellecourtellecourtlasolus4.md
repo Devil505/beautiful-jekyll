@@ -1,11 +1,11 @@
 ---
-title = "Elle court, elle court la Solus 4"
-date = "2018-02-24T10:21:00+02:00"
-draft = false
-thumbnail = "img/linux.jpg"
-toc = true # Optional
-tags = ["linux"]
-categories = ["linux"]
+title : "Elle court, elle court la Solus 4"
+date : "2018-02-24T10:21:00+02:00"
+draft : false
+thumbnail : "img/linux.jpg"
+toc : true # Optional
+tags : ["linux"]
+categories : ["linux"]
 ---
 
 Certains l'attendent avec une certaine impatience comme sur [ce groupe Telegram](https://t.me/solusfr) cette Solus 4. Il faudra encore attendre un peu même si la [TODO List](https://dev.solus-project.com/T5010) progresse un peu. Il y a eu des mises à jour de KDE Plasma sur le dépôt unstable, donc il y a de fortes chances que Plasma soit disponible avec Solus 4.
