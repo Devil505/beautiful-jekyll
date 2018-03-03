@@ -1,11 +1,11 @@
 ---
-title = "Bientôt une édition GNOME de Solus ?"
-date = "2017-04-07T17:07:55+02:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Bientôt une édition GNOME de Solus ?"
+date : "2017-04-07T17:07:55+02:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 Et bien, c'est ce qu'on pourrait croire en jetant un coup d'œil au [dépôt git des images Iso](https://git.solus-project.com/images/gnome/) du projet Solus.

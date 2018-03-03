@@ -1,11 +1,11 @@
 ---
-title = "Passage à Solus"
-date = "2017-06-11T08:47:53+02:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Passage à Solus"
+date : "2017-06-11T08:47:53+02:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 Et voilà, sur ma station de travail, j'ai viré elmentary OS pour y mettre Solus avec Budgie desktop.

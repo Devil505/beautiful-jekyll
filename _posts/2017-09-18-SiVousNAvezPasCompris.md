@@ -1,11 +1,11 @@
 ---
-title = "Si vous n'avez pas compris c'est normal !"
-date = "2017-09-18T18:46:00+02:00"
-draft = false
-thumbnail = "img/solus.jpg"
-toc = true # Optional
-tags = ["linux", "solus"]
-categories = ["linux", "solus"]
+title : "Si vous n'avez pas compris c'est normal !"
+date : "2017-09-18T18:46:00+02:00"
+draft : false
+thumbnail : "img/solus.jpg"
+toc : true # Optional
+tags : ["linux", "solus"]
+categories : ["linux", "solus"]
 ---
 
 

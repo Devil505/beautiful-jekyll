@@ -1,11 +1,11 @@
 ---
-title = "Les développeurs prennent-ils les utilisateurs pour des cons ?"
-date = "2017-01-22T11:10:03+01:00"
-draft = false
-thumbnail = "img/edito.jpg"
-toc = true # Optional
-tags = ["coup de gueule"]
-categories = ["editos"]
+title : "Les développeurs prennent-ils les utilisateurs pour des cons ?"
+date : "2017-01-22T11:10:03+01:00"
+draft : false
+thumbnail : "img/edito.jpg"
+toc : true # Optional
+tags : ["coup de gueule"]
+categories : ["editos"]
 ---
 
 
