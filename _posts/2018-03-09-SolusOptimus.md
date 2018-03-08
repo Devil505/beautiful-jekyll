@@ -9,7 +9,7 @@ Sur le portable xiaomi j'ai justement un GPU hybride GPU Intel / NVIDIA. Le hic 
 Une alternative existe depuis peu sur github. MarechalLima a cée un [dépôt](https://github.com/MarechalLima/Solus-Optimus-Switch) qui a retenu mon attention. C'est un cript tout simple qui blackliste le driver nvidia pour permettre d'utiliser le driver _nouveau_ plus économe.
 Le script permet aussi de revenir sur le driver NVIDIA, par exemple, si vous avez envie de jouer. Sachez que cela nécéssite un reboot de la machine à chaque changement du driver.
 
- *Pour l'utiliser c'est super simple:
+* Pour l'utiliser c'est super simple:
 
 Téléchargez l'archive [ici](https://github.com/MarechalLima/Solus-Optimus-Switch/releases)
 
@@ -22,5 +22,7 @@ La commande *gpu-switch* permet de changer de driver, une fenêtre de notificati
 La commande *gpu-status* lance une fenêtre de notification pour indiquer quel driver est en cours d'utilisation.
 
 Utile et pratique en attendant la mise à jour de LDM avec le support d'Optimus.
+
+* UPDATE: Sur le dépôt, l'auteur a rajouté des icones Intel et NVIDIA pour les notifications.
 
  
