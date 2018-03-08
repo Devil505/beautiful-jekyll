@@ -15,7 +15,7 @@ Téléchargez l'archive [ici](https://github.com/MarechalLima/Solus-Optimus-Swit
 
 Ensuite utilisez la commande `make install` (vous devez avoir le paquet *make* installé).
 
-Cela installera les script gpu-switch et gpu-status.
+Cela installera les scripts gpu-switch et gpu-status.
 
 La commande *gpu-switch* permet de changer de driver, une fenêtre de notification vous indiquera par exemple "nouveau" et de rebooter.
 
