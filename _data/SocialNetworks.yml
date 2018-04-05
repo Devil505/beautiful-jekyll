@@ -95,3 +95,13 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+diaspora:
+  name: "Diaspora"
+  baseURL: ""
+  icon: "fa-diaspora"
+
+mastodon:
+  name: "Mastodon"
+  baseURL: ""
+  icon: "fa-mastodon"

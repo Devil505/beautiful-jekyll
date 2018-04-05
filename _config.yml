@@ -70,10 +70,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+
 #  email: "someone@example.com"
 #  facebook: daattali
+  mastodon: https://framapiaf.org/@pixtolero
+  diaspora: https://framasphere.org/people/e4aa35c0c08c01352fbb2a0000053625
   github: devil505
+  rss: true
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
