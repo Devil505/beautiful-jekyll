@@ -18,7 +18,7 @@ Sur Github, l'équipe bosse pas mal sur l'installateur, surement poussé par Sys
 
 ## Solus
 
-Pas grand chose chez Solus, la vitesse de développement c'est un peu ralenti. Ikey a des activités qui lui prend un peu de temps. Néanmoins, il repris le développement du Solus Software Center qui dispose d'une [queue list latérale](https://plus.google.com/b/109348840800096254191/+Solus-Project/posts/Ya9CwUzwXnr) et, de plus, l'application s'intègre également [dans un environnement Plasma](https://plus.google.com/b/109348840800096254191/+Solus-Project/posts/36BGNr4f3vD).
+Pas grand chose chez Solus, la vitesse de développement s'est un peu ralenti. Ikey a des activités qui lui prend un peu de temps. Néanmoins, il repris le développement du Solus Software Center qui dispose d'une [queue list latérale](https://plus.google.com/b/109348840800096254191/+Solus-Project/posts/Ya9CwUzwXnr) et, de plus, l'application s'intègre également [dans un environnement Plasma](https://plus.google.com/b/109348840800096254191/+Solus-Project/posts/36BGNr4f3vD).
 
 Malgré une panne du serveur chez OVH qui a duré une journée, le service est assuré avec l'habituelle synchonisation du vendredi. Dernièrement, mise à jour du kernel en 4.15.15, de Mesa et de quelques applications comme Calibre.
 
