@@ -16,7 +16,7 @@ Bien sûr, il faut changer de roms et cela fait un moment que j'avais dévéroui
 
 Plus de Google Play Store mais il y a, comme je vous le disais, le store F-Droid qui commence à disposer de pas mal d'applications, libres et/ou respecteuses de la vie privée (du moins sur la fiche c'est indiqué ce qui peut aller ou pas), on y trouve Firefox, Nextcloud, Caldav (gratuit alors qu'il est payant sur Gooogle Play), Telegram...Peut être que je ferais régulièrement un billet sur les applications intéressantes que je déniche sur F-Droid.
 
-Après si vous voulez une application qui est sur le Google Play Store, par exemple, l'application de votre banque, et bien, il suffit d'installer depuis F-Droid, Yalp. Yalp est une application qui permet d'aller cherche l'APK de n'importe quelle application disponible sur le Google Play Store. En gros, vous aurez toujours la possibilité d'installer des applications du Play Store mais sans devoir passer directement par ce dernier. Pratique pour éviter d'être tracer. 
+Après si vous voulez une application qui est sur le Google Play Store, par exemple, l'application de votre banque, et bien, il suffit d'installer depuis F-Droid, [Yalp](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/). Yalp est une application qui permet d'aller cherche l'APK de n'importe quelle application disponible sur le Google Play Store. En gros, vous aurez toujours la possibilité d'installer des applications du Play Store mais sans devoir passer directement par ce dernier. Pratique pour éviter d'être tracer. 
 
 ## Conclusion
 
